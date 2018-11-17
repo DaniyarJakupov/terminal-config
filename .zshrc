@@ -110,6 +110,7 @@ alias gb="git branch -a"
 alias gpm="git pull --rebase origin master"
 alias gfp="git fetch --prune"
 alias gt="git log --oneline --all --decorate --graph"
+alias grevert="git reset HEAD~1"
 alias emulator='~/Library/Android/sdk/tools/emulator -avd Nexus_6P_API_23'
 
 
